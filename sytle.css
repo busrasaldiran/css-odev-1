@@ -1,0 +1,19 @@
+/**Layout**/
+h2{
+    color:brown;
+}
+
+.text-red{
+    color: blue;
+    font-size: large;
+}
+
+.font-type{
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+
+li{
+    color:blueviolet;
+    font-size: 20px;
+}
+
